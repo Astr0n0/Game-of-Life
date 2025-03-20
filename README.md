@@ -20,6 +20,8 @@ If you want to read more about the game, you can check [Conway's Game of life](h
 - Toroidal (wrap-around) grid for continuous evolution.
 - Adjustable grid size and number of generations.
 
+![Game of Life Demo](https://github.com/Astr0n0/Game-of-Life/game_of_life.gif)
+
 ------------------------------------------------
 
 ### How to Run
