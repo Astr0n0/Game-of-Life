@@ -21,6 +21,8 @@ If you want to read more about the game, you can check [Conway's Game of life](h
 - Adjustable grid size and number of generations.
 
 
+### Sample 
+![game-of-life](https://github.com/user-attachments/assets/73608461-eca7-4722-9610-668111d6b543)
 
 
 ----------------------------------------------
