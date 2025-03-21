@@ -21,11 +21,10 @@ If you want to read more about the game, you can check [Conway's Game of life](h
 - Adjustable grid size and number of generations.
 
 
-  ![game_of_life](https://github.com/user-attachments/assets/b379a59b-bb8c-4da7-84ff-87f3da355a30)
+![game_of_life](https://github.com/user-attachments/assets/b379a59b-bb8c-4da7-84ff-87f3da355a30)
 
 
-
-------------------------------------------------
+----------------------------------------------
 
 ### How to Run
 1. Clone the repository:
