@@ -15,7 +15,7 @@ If you want to read more about the game, you can check [Conway's Game of life](h
 
 ### Features
 - Randomized initial grid of live and dead cells.
-- Terminal-based visualization (# for alive cells, . for dead cells).
+- Terminal-based visualization ('#' for alive cells, '.' for dead cells).
 - Calculation of the number of alive neighbors for each cell.
 - Toroidal (wrap-around) grid for continuous evolution.
 - Adjustable grid size and number of generations.
