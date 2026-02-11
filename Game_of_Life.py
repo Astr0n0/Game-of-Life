@@ -16,7 +16,7 @@ def create_initial_grid(rows, cols):
 def print_grid(grid):
     # displaying the grid in the terminal
     for row in grid: # '.' for dead cells and '#' for alive ones 
-        print(' '.join('#' if cell == 1 else '.' for cell in row))
+        print(''.join('⬜' if cell == 1 else '⬛' for cell in row))
 
 def get_neighbors(grid, row, col, rows, cols):
     # the number of alive neighbors of a cell
